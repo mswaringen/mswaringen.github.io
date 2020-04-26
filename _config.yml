@@ -38,10 +38,10 @@ plainwhite:
   tagline: Still Thinking
   date_format: "%b %-d, %Y"
 
-social_links:
-  twitter: markswaringen
-  github:  mswaringen
-  linkedIn: us/mswaringen
+  social_links:
+    twitter: markswaringen
+    github:  mswaringen
+    linkedIn: us/mswaringen
 
 show_excerpts: true
 
