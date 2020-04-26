@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Test Post 2"
-date:   2020-04-26 03:24:42 +0800
-categories: test
----
-Hello, this is the 2nd test test
