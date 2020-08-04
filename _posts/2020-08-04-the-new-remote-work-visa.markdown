@@ -2,7 +2,7 @@
 layout: post
 title:  "Visa Restrictions No Longer Make Sense. Enter the 6-mo WFH Traveler."
 date:   2020-08-04
-categories: remote-work
+categories: remote-work travel
 ---
 You are welcome with open arms as a tourist to a foreign country. All smiles, happy to see you and your money and willing to show you the best parts of their country. Want to stay more than 1-3 months? Those smiles turn to frowns, citizens start to question your intentions; primarily, where is your job? Are you going to try to take a job from a local? Because when the foreign money stops so does the fun.
 
